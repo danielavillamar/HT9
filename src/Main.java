@@ -12,7 +12,7 @@ import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;
 
 // DANIELA VILLAMAR 19086
-// MIRKA MONZON 
+// MIRKA MONZON 18139
 // 22/04/2020
 // HT9
 
